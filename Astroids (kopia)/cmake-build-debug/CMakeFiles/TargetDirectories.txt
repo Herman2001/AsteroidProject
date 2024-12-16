@@ -1,0 +1,3 @@
+/Users/hermanbengtsson/CLionProjects/Astroids (kopia)/cmake-build-debug/CMakeFiles/Astroids.dir
+/Users/hermanbengtsson/CLionProjects/Astroids (kopia)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hermanbengtsson/CLionProjects/Astroids (kopia)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
